@@ -21,12 +21,10 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 This took me below 2 hours. It is the first html & css project I have done.
 ### Screenshot
 
-![WEBPAGE SCREENSHOT](https://github.com/goushaa/Qr-Code-Challenge/tree/main/QRCode-Project/QRFinalProduct.jpg?raw=true "WEBPAGE SCREENSHOT")
-
+![WEBPAGE SCREENSHOT](./QRFinalProduct.jpg)
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
 - Live Site URL: [Add live site URL here](https://your-live-site-url.com)
 
 ## My process
@@ -44,13 +42,10 @@ Then, started with making the content centered. I failed at that so took half an
 It can be frustrating at first trying to figure out why the content isn't lining up as you imagine it to be. So, be patient and refer to internet resources like MDN and you'll get the hang of it.
 
 
-
 ### Useful resources
 
 - [Example resource 1](https://developer.mozilla.org/en-US/docs/Web/HTML) - This helped me for returning back to the basics of html.
-- [Example resource 2] (https://developer.mozilla.org/en-US/docs/Web/CSS_ - This is an amazing article which helped me finally understand css. I'd recommend it to anyone still learning this concept.
-
-**Note: Delete this note and replace the list above with resources that helped you during the challenge. These could come in handy for anyone viewing your solution or for yourself when you look back on this project in the future.**
+- [Example resource 2] (https://developer.mozilla.org/en-US/docs/Web/CSS) - This is an amazing article which helped me finally understand css. I'd recommend it to anyone still learning this concept.
 
 ## Author
 
