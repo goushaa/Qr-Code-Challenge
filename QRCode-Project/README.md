@@ -50,4 +50,3 @@ It can be frustrating at first trying to figure out why the content isn't lining
 ## Author
 
 - Frontend Mentor - [@goushaa](https://www.frontendmentor.io/profile/goushaa)
-
