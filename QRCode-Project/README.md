@@ -45,7 +45,7 @@ It can be frustrating at first trying to figure out why the content isn't lining
 ### Useful resources
 
 - [Example resource 1](https://developer.mozilla.org/en-US/docs/Web/HTML) - This helped me for returning back to the basics of html.
-- [Example resource 2] (https://developer.mozilla.org/en-US/docs/Web/CSS) - This is an amazing article which helped me finally understand css. I'd recommend it to anyone still learning this concept.
+- [Example resource 2](https://developer.mozilla.org/en-US/docs/Web/CSS) - This is an amazing article which helped me finally understand css. I'd recommend it to anyone still learning this concept.
 
 ## Author
 
