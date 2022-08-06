@@ -21,8 +21,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 This took me below 2 hours. It is the first html & css project I have done.
 ### Screenshot
 
-(QRFinalProduct.jpg)
-
+![WEBPAGE SCREENSHOT](https://github.com/goushaa/Qr-Code-Challenge/tree/main/QRCode-Project/QRFinalProduct.jpg)
 
 
 ### Links
